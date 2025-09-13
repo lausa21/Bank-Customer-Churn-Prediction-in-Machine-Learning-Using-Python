@@ -43,6 +43,7 @@ To optimize the chosen **Random Forest** model, `GridSearchCV` was used to find 
 The **Random Forest Classifier** proved to be the most effective model for predicting bank customer churn in this project. While fine-tuning provided a marginal performance boost, the initial model was already robust. The final model serves as a valuable tool for identifying customers at risk of churning, allowing the bank to implement targeted retention efforts.
 
 ---
+
 ### 🛠️ Concepts
 * **Language:** Python
 * **Core Concepts:**
