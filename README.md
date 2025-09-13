@@ -31,10 +31,6 @@ The performance of each model was compared using standard classification metrics
 ### 🔧 Fine-Tuning with GridSearchCV
 To optimize the chosen **Random Forest** model, `GridSearchCV` was used to find the best combination of hyperparameters.
 * **Hyperparameters Tuned:** `n_estimators`, `max_depth`, and `max_features`.
-* **Best Parameters Found:**
-    * `max_depth`: `None`
-    * `max_features`: `'sqrt'`
-    * `n_estimators`: `188`
 * **Final Result** : After applying these parameters, the fine-tuned Random Forest model showed a **slight improvement** in overall accuracy, precision, and recall (approximately 1%). This indicates the initial model was already performing near its optimal level.
 
 ---
