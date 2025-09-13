@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Prediction
+# 🏦 Bank Customer Churn Prediction in Machine Learning Using Python
 This project, developed for a Machine Learning course in my 3rd-semester, focuses on building and evaluating a binary classification model to predict bank customer churn. The primary goal is to identify customers who are likely to leave the bank ("churn") based on their attributes and banking behavior.
 By accurately predicting churn, a bank can proactively engage with at-risk customers through targeted retention strategies, thereby reducing customer loss and maintaining a stable client base. This project explores several machine learning algorithms, compares their performance, and uses fine-tuning to optimize the best-performing model.
 
